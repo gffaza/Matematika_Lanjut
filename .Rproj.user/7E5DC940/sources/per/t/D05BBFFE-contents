@@ -1,0 +1,19 @@
+values <- sample(c(1:1000), 100, replace = FALSE)
+
+G <- matrix( data =values,nrow=10, ncol=10, byrow=TRUE)
+
+H <- t(G)
+
+J <- G+H
+
+det(G)
+
+det(H)
+
+det(J)
+
+K <- cbind (G[,1:5],J[,1:5])
+
+G %*% solve(G)
+
+
