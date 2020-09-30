@@ -3,7 +3,7 @@
     "path": "C:/Users/Deuxieme/Desktop/Kuliah/Matematika Lanjut/02_Programming R _Matrix_19523118/02_Programming R _Matrix_19523118.R",
     "project_path": "02_Programming R _Matrix_19523118.R",
     "type": "r_source",
-    "hash": "3529079107",
+    "hash": "14784646",
     "contents": "",
     "dirty": false,
     "created": 1601383637045.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "17,0",
-        "scrollLine": "0"
+        "cursorPosition": "40,0",
+        "scrollLine": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1601383705,
+    "lastKnownWriteTime": 1601490341,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1601383705982,
+    "last_content_update": 1601490341686,
     "read_only": false,
     "read_only_alternatives": []
 }
